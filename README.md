@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Indrabhan Chaudhary</h1>
 <h3 align="center">A passionate FullStack Java developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indrabhan012&label=Profile%20views&color=0e75b6&style=flat" alt="indrabhan012" /> </p>
+
 - 🔭 I’m currently working on **FullStack Software using Spring boot Framework**
 
 - 🌱 I’m currently learning **React.js,Angular, Spring Boot**
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/indrabhan-chaudhary-794834177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indrabhan-chaudhary-794834177" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/indrabhan-chaudhary-794834177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/indrabhan-chaudhary-794834177" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
